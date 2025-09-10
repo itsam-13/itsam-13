@@ -1,7 +1,8 @@
 <h1 align="center">Yo! ✋, I'm Abhineet aka "AM"</h1>
 <h3 align="left">💻 CSE Student at ABES Engineering College | 🚀 Exploring DSA, Web & AI <br> 🌱 Always Learning “Turning ideas into code while debugging life along the way ✨<br>
   🚀 Aspiring Software Engineer | ⚡ Problem Solver | ☕ Coffee-powered Coder <br>
-  🌱 Learning • Building • Sharing | 💻 Curious Mind in Tech Code. Create. Learn. Repeat</h3>
+  🌱 Learning • Building • Sharing | 💻 Curious Mind in Tech Code. Create. Learn. Repeat <br>
+I am passionate about continuously working on projects to strengthen my skills and grow as a developer</h3>
 
 
 
