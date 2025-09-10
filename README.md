@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Abhineet aka "AM"</h1>
-<h3 align="center">💻 CSE Student at ABES Engineering College | 🚀 Exploring DSA, Web & AI | 🌱 Always Learning “Turning ideas into code while debugging life along the way ✨” 🚀 Aspiring Software Engineer | ⚡ Problem Solver | ☕ Coffee-powered Coder 🌱 Learning • Building • Sharing | 💻 Curious Mind in Tech Code. Create. Learn. Repeat</h3>
+<h1 align="center">Yo! ✋, I'm Abhineet aka "AM"</h1>
+<h3 align="left">💻 CSE Student at ABES Engineering College | 🚀 Exploring DSA, Web & AI <br> 🌱 Always Learning “Turning ideas into code while debugging life along the way ✨<br>
+  🚀 Aspiring Software Engineer | ⚡ Problem Solver | ☕ Coffee-powered Coder <br>
+  🌱 Learning • Building • Sharing | 💻 Curious Mind in Tech Code. Create. Learn. Repeat</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsam-13&label=Profile%20views&color=0e75b6&style=flat" alt="itsam-13" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,5 +30,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=itsam-13&icon=6&color=0)](https://visitcount.itsvg.in)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsam-13&label=Profile%20views&color=0e75b6&style=flat" alt="itsam-13" /> </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
