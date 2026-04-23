@@ -17,7 +17,7 @@ I am passionate about continuously working on projects to strengthen my skills a
 
 ## 📊 3D Contribution Graph
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
 
