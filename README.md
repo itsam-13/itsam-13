@@ -1,5 +1,5 @@
 <p align="center">
-<a href="#"><img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋%2C+I'm+Abhineet+(AM);Backend-leaning+Full+Stack+Developer;CSE+Student+%40+ABES+Engineering+College;Building+with+Node.js%2C+Express+%26+MongoDB&font=Fira%20Code&center=true&width=600&height=60&duration=3000&pause=1000&color=58A6FF&vCenter=true&size=24" alt="Typing SVG" /></a>
+<a href="#"><img src="https://readme-typing-svg-one.vercel.app/?lines=Hi+👋%2C+I'm+Abhineet+(AM);Backend-leaning+Full+Stack+Developer;CSE+Student+%40+ABES+Engineering+College;Building+with+Node.js%2C+Express+%26+MongoDB&font=Fira%20Code&center=true&width=600&height=60&duration=3000&pause=1000&color=58A6FF&vCenter=true&size=24" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@ Currently building out backend services in Node.js/Express — wiring up MongoDB
 <p align="left">
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-<a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/></a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/></a>
 <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
 </p>
 
@@ -70,16 +70,6 @@ Currently building out backend services in Node.js/Express — wiring up MongoDB
 
 <h3 align="left">📊 3D Contribution Graph</h3>
 <p align="left"><img src="./profile-3d-contrib/profile-night-rainbow.svg" /></p>
-
-<h3 align="left">📈 GitHub Stats</h3>
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=itsam-13&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="stats" /><br/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=itsam-13&theme=dark&hide_border=false" alt="streak" /><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsam-13&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="top langs" />
-</p>
-
-<h3 align="left">🏆 GitHub Trophies</h3>
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=itsam-13&theme=radical&no-frame=false&no-bg=true&margin-w=4" /></p>
 
 <h3 align="left">✍️ Random Dev Quote</h3>
 <p align="left"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" /></p>
