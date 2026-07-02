@@ -1,6 +1,5 @@
-<p align="center">
-<a href="#"><img src="https://readme-typing-svg-one.vercel.app/?lines=Hi+👋%2C+I'm+Abhineet+(AM);Backend-leaning+Full+Stack+Developer;CSE+Student+%40+ABES+Engineering+College;Building+with+Node.js%2C+Express+%26+MongoDB&font=Fira%20Code&center=true&width=600&height=60&duration=3000&pause=1000&color=58A6FF&vCenter=true&size=24" alt="Typing SVG" /></a>
-</p>
+<h1 align="center">Hi 👋, I'm Abhineet (AM)</h1>
+<h3 align="center">Backend-leaning Full Stack Developer | CSE Student @ ABES Engineering College</h3>
 
 <p align="center">
 🚀 Building with Node.js, Express & MongoDB &nbsp;|&nbsp; 🌱 Exploring DSA, Web Dev & AI &nbsp;|&nbsp; ☕ Coffee-powered coder
