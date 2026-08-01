@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhineet (AM)</h1>
-<h3 align="center">Backend-leaning Full Stack Developer | CSE Student @ ABES Engineering College</h3>
+<h3 align="center">Backend-leaning Full Stack Developer | DevOps Enthusiastic| CSE Student @ ABES Engineering College</h3>
 
 <p align="center">
 🚀 Building with Node.js, Express & MongoDB &nbsp;|&nbsp; 🌱 Exploring DSA, Web Dev & AI &nbsp;|&nbsp; ☕ Coffee-powered coder
